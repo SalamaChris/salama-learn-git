@@ -1,0 +1,4 @@
+PROGRES BELAJAR GIT - 16 September 2024
+- Mempelajari dasar pemahaman mengenai GIT dan GITHUB
+- Membuat akun GITHUB
+- Membuat repository pertama di GITHUB
