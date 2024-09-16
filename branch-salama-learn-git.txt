@@ -1,0 +1,3 @@
+BRANCH BARU
+- Membuat branch pertama pada repository
+- Membuat file baru pada branch
