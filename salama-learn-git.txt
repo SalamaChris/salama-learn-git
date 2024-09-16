@@ -4,4 +4,4 @@ PROGRES BELAJAR GIT - 16 September 2024
 - Membuat repository pertama di GITHUB
 - Melakukan commint pertama
 - Mengedit file commit pertama
-- Menambahkan progres baru
+- Melakukan perubahan pada progres belajar
