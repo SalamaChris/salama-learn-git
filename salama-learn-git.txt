@@ -6,3 +6,5 @@ PROGRES BELAJAR GIT - 16 September 2024
 - Mengedit file commit pertama
 - Mengubah progres belajar
 - Menghapus progres belajar
+
+PROGRES BELAJAR GIT - 19 SEPTEMBER 2024
