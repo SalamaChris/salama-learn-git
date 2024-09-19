@@ -4,4 +4,5 @@ BRANCH BARU - 16 September 2024
 - Menambah progres pada branch
 - Melakukan merge pada branch dan menghapus branch
 BRANCH BARU - 19 September 2024
-- Membuat branch fitur-1 dan branch fitur-2
+- Membuat branch fitur-1 dan branch fitur-1
+- Mengubah isi branch
